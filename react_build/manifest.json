@@ -1,0 +1,9 @@
+{
+  "short_name": "MeArm",
+  "name": "MeArm Controller",
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#2c3e50",
+  "background_color": "#bdc3c7",
+  "orientation": "landscape"
+}
